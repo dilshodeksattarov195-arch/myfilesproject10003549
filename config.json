@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailrync",
+        "uuid": 2942121,
+        "checksum": "5jxrik"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
